@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product bug or feature request
+    url: https://github.com/nirholas/three.ws/issues
+    about: The app or platform is broken, or you want a new feature
+  - name: Report a security problem
+    url: https://github.com/nirholas/three-ws-docs/blob/main/SECURITY.md
+    about: Do not open a public issue. Email security@three.ws
