@@ -1,0 +1,13 @@
+{
+  "name": "three-ws-guide",
+  "owner": {"name": "nirholas"},
+  "description": "three.ws 3D Studio connection and agent discovery guide.",
+  "plugins": [
+    {
+      "name": "three-ws-guide",
+      "source": "./",
+      "description": "Adds the free three.ws 3D Studio MCP server and skills for generating 3D models and for discovering three.ws agent surfaces.",
+      "tags": ["three-ws", "3d", "mcp", "discovery"]
+    }
+  ]
+}
