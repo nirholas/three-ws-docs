@@ -1,0 +1,10 @@
+{
+  "name": "three-ws-guide",
+  "version": "0.1.0",
+  "description": "Connect to the free three.ws 3D Studio MCP server and discover the platform's MCP servers, agent cards and x402 catalog.",
+  "author": {"name": "nirholas"},
+  "repository": "https://github.com/nirholas/three-ws-docs",
+  "license": "Apache-2.0",
+  "keywords": ["three-ws", "3d", "mcp", "avatars", "agent-discovery", "x402"],
+  "homepage": "https://three.ws"
+}
